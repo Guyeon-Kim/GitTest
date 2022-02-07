@@ -19,7 +19,7 @@ public class HomeController {
 	private static final Logger logger = LoggerFactory.getLogger(HomeController.class);
 	
 	/**
-	 * 메인 화면
+	 * 메인 화면 ! 로거 항상 사용 안해도됨
 	 */
 	@RequestMapping(value = "/", method = RequestMethod.GET)
 	public String home() {
