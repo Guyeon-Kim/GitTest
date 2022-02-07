@@ -9,7 +9,7 @@
 <body>
 <h1>[ web1 예제 ]</h1>
 	<p>안녕하세요</p>
-	<p><a href="test">두번째 페이지 보기</a></p>
+	<p><a href="test">두번째 페이지 </a></p>
 	
 </body>
 </html>
